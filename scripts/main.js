@@ -6,18 +6,19 @@
 
 lancerJeu()
 
-let zoneInput = document.getElementById("inputEcriture")
-console.log(zoneInput)
+// J'ai mis ce code en commentaire, nous pourrons le récupérer lorsque nous en auront besoin :
 
-let zoneBtnValider= document.getElementById("btnValiderMot")
-console.log(zoneBtnValider)
+// let inputEcriture = document.getElementById("inputEcriture")
+// console.log(inputEcriture)
 
-let zoneValidationScore = document.querySelector(".zoneScore span")
-console.log(zoneValidationScore)
+// let btnValiderMot = document.getElementById("btnValiderMot")
+// console.log(btnValiderMot)
 
-let zonePropositionJoueur = document.querySelector(".zoneProposition")
-console.log(zonePropositionJoueur)
+// let zoneProposition = document.querySelector(".zoneProposition")
+// console.log(zoneProposition)
 
-let boutonRadioChoix = document.querySelectorAll("input[type=radio]")
-console.log(boutonRadioChoix)
+// let spanScore = document.querySelector(".zoneScore span")
+// console.log(spanScore)
 
+// let listeBtnRadio = document.querySelectorAll(".optionSource input")
+// console.log(listeBtnRadio)
